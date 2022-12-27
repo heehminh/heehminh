@@ -1,4 +1,4 @@
-### Hi I'm Android Developer Anna Kim 👩‍💻👋
+### Hi I'm FE Developer Anna Kim 👩‍💻👋
 <br/>
 
 **소통**하는 **프론트엔드 개발자** 김민희입니다. <br/>
