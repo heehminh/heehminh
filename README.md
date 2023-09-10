@@ -1,13 +1,16 @@
 
 
-### Work Experience
+### Work Experience & Award
 ```
-(21.03-22.02) 명지대 데이터분석학회 COIN 학회원 
+(21.03-22.02) 명지대 데이터분석학회 COIN 학회원
+(21.09.01) 2021-1학기 명지대학교 성적우수상 및 성적장학금 3회
 (21.09-22.02) UMC 1ST 명지대 Android Challenger 
-(22.03-22.07) UMC 2ND 명지대 운영진, Server Challenger 
-(22.07-22.09) 데이터청년캠퍼스, KOTRA 빅데이터팀 프로젝트 참여 
-(23.03-23.08) UMC 4TH 명지대 Web Challenger 
-(23.07-23.08) Ericsson LG Summer Internship 
+(22.03-22.07) UMC 2ND 명지대 운영진, Server Challenger
+(22.07-22.09) 데이터 청년 캠퍼스 
+(22.10.07) KOTRA - 해외시장정보 분석 플랫폼 표창장
+(23.03-23.08) UMC 4TH 명지대 Web Challenger
+(23.05.11) EricssonLG - Girls in ICT 2023 Hackathon Best Awards
+(23.07-23.08) EricssonLG Summer Internship 
 ```
 
 ### Contact
