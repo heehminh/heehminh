@@ -1,23 +1,18 @@
 
 
-### Hi I'm FE Developer Minhee Kim 👩‍💻👋
-<br/>
+### Work Experience
+```
+(21.03-22.02) 명지대 데이터분석학회 COIN 학회원 
+(21.09-22.02) UMC 1ST 명지대 Android Challenger 
+(22.03-22.07) UMC 2ND 명지대 운영진, Server Challenger 
+(22.07-22.09) 데이터청년캠퍼스, KOTRA 빅데이터팀 프로젝트 참여 
+(23.03-23.08) UMC 4TH 명지대 Web Challenger 
+(23.07-23.08) Ericsson LG Summer Internship 
+```
 
-**소통**하는 **프론트엔드 개발자** 김민희입니다. <br/>
-**사용자 친화 서비스**를 만들기위해 꾸준히 고민하고 **도전**합니다. <br/> <br/>
-
-
-<div>
-  <h3>💻 Skill 💻</h3>
-   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
-  <img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
- 
-  <h3>📧 Contact 📧 </h3>
+### Contact
   <a href="https://anna-in-workplace.tistory.com/"><img src="https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://anna-in-workplace.tistory.com//"/></a> 
   <a href="mailto:mink141416@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mink141416@gmail.com"/></a>
-  
-</div>
+
 
 
