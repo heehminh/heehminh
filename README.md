@@ -10,7 +10,8 @@
 (22.10.07) KOTRA - 해외시장정보 분석 플랫폼 표창장
 (23.03-23.08) UMC 4TH 명지대 Web Challenger
 (23.05.11) EricssonLG - Girls in ICT 2023 Hackathon Best Awards
-(23.07-23.08) EricssonLG Summer Internship 
+(23.07-23.08) EricssonLG Summer Internship
+(23.07-23.09) 신촌 기반 공유 우산 플랫폼, UPbrella 개발 팀원
 ```
 
 ### Contact
