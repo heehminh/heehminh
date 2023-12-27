@@ -1,6 +1,6 @@
 
 
-### Work Experience & Award
+### Work Experience & Awards
 ```
 (21.03-22.02) 명지대 데이터분석학회 COIN 학회원
 (21.09.01) 2021-1학기 명지대학교 성적우수상 및 성적장학금 3회
