@@ -1,5 +1,3 @@
-
-
 ### Work Experience & Awards
 ```
 (21.03-22.02) 명지대학교 데이터분석학회 COIN 학회원
@@ -17,6 +15,10 @@
   <a href="mailto:mink141416@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mink141416@gmail.com"/></a>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113](https://www.linkedin.com/in/minhee-kim-68a256269/)/)](https://www.linkedin.com/in/minhee-kim-68a256269/)
 	
+
+### 2023 My GitHub Record
+https://github.com/heehminh/heehminh/assets/76530562/73a8b03a-5e2c-420b-845b-a97d73c4218f
+
 
 
 
