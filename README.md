@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113](https://www.linkedin.com/in/minhee-kim-68a256269/)/)](https://www.linkedin.com/in/minhee-kim-68a256269/)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/heehminh?pet-id=587599599732100489" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/heehminh?pet-id=587599599732100489" width="600" height="120"/>
 </a>
 
 
