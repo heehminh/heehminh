@@ -1,5 +1,4 @@
 # Frontend Developer 
-사용자의 편의와 만족을 최우선으로 생각하여 멋진 사용자 경험을 제공하자!
 
 
 <a href="https://anna-in-workplace.tistory.com/"><img src="https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://anna-in-workplace.tistory.com//"/></a> <a href="mailto:mink141416@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mink141416@gmail.com"/></a>
